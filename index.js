@@ -275,7 +275,7 @@ var $big = (function() {
       }); 
       $inner.find('.btn-cancel').click(delFont);
       $inner.find('.btn-ok').click(delFont);
-      $inner.find('.close-btn').click(deleteFont);
+      $inner.find('.close-btn').click(delFont);
     });
   } 
 
